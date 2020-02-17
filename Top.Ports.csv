@@ -1,0 +1,474 @@
+"","x","freq"
+"100","Curacao",1
+"284","Nanjing",1
+"412","Taboneo",1
+"419","Tangier",1
+"427","Tees Bay",1
+"279","Muarajawa",2
+"346","Puerto Deseado",2
+"376","San Antonio Este",2
+"45","Berdiansk",4
+"82","Castries",4
+"152","Geelong",5
+"142","Fukuyama",6
+"242","Lisbon",6
+"311","Palermo",6
+"102","Dafeng",7
+"212","Kashima",7
+"325","Pomalaa",7
+"344","Puerto Barrios",7
+"261","Matanzas(VEN)",8
+"267","Milos",8
+"303","Nouadhibou",8
+"394","Seven Islands",9
+"46","Big Creek",10
+"304","Nouakchott",10
+"151","Gebe Is.",12
+"171","Havana",12
+"254","Mar del Plata",13
+"220","Kobe",14
+"309","Padang",14
+"424","Tartous",14
+"436","Toronto",14
+"228","La Goulette",15
+"19","Ancona",16
+"398","Shuaiba",16
+"454","Vitoria",18
+"330","Port Cartier",20
+"383","Santana",20
+"260","Marystown",22
+"280","Mukalla",22
+"462","Yanbu",22
+"345","Puerto Cabello",23
+"88","Chernomorsk",24
+"116","Djibouti",24
+"172","Hay Point",24
+"276","Montrose",25
+"22","Apapa-Lagos",26
+"75","Cape Town",26
+"271","Mombasa",26
+"48","Binh Thuan",27
+"63","Buchanan(LBR)",27
+"249","Male",27
+"335","Port Muhammad Bin Qasim",27
+"336","Port of Spain",31
+"103","Dagenham",33
+"215","Kiel Canal",34
+"357","Rio Haina",34
+"374","Samarinda",34
+"95","Copenhagen",35
+"136","Fort de France",35
+"296","Newport",35
+"439","Trincomalee",35
+"65","Buenos Aires",36
+"6","Aden",37
+"342","Poti",37
+"437","Trabzon",37
+"43","Bejaia",38
+"195","Jakarta",38
+"282","Mundra",39
+"361","Rocky Point",39
+"106","Dalrymple Bay",40
+"110","Davant",40
+"307","Oran",40
+"98","Cristobal",41
+"443","Umm Qasr",42
+"379","San Juan(PRI)",43
+"60","Brisbane",45
+"118","Dongjiakou",45
+"324","Pointe Noire(COG)",46
+"413","Taganrog",46
+"117","Donghae",47
+"42","Beira",48
+"247","Long Pond",48
+"186","Incheon",49
+"348","Qinzhou",49
+"432","Thisvi",50
+"76","Cardiff",51
+"358","River Plate",53
+"12","Algiers",54
+"453","Visakhapatnam Roads",55
+"318","Philadelphia",56
+"473","Zonguldak",56
+"181","Huanghua",57
+"440","Tubarao",57
+"126","El Dekheila",58
+"94","Constantza",59
+"291","New Mangalore",60
+"168","Halifax",62
+"213","Kavkaz",64
+"278","Motril",64
+"460","Wismar",64
+"273","Monopoli",65
+"238","Le Legue",66
+"295","Newcastle(AUS)",67
+"390","Seaham",67
+"32","Bahrain",68
+"253","Maputo",69
+"352","Reni",69
+"403","Skikda",69
+"334","Port Manatee",71
+"362","Rosario",71
+"96","Corpus Christi",73
+"237","Le Havre",73
+"387","Sao Luiz",73
+"459","Wilmington(NC USA)",73
+"466","Yeysk",73
+"128","Ellesmere Port",74
+"277","Mormugao",74
+"217","Kingston(JAM)",75
+"243","Liverpool",75
+"329","Port Arthur",75
+"188","Ipswich",76
+"232","Laem Chabang",76
+"351","Recalada",77
+"56","Brake",78
+"144","Gabes",78
+"211","Kartal",78
+"328","Port Alma",78
+"420","Tangier-Mediterranee",78
+"209","Karachi",79
+"256","Mariupol",79
+"294","Newcastle Upon Tyne",79
+"393","Setubal",79
+"130","Esbjerg",80
+"372","Saleef",80
+"381","San Pedro de Macoris",80
+"178","Honfleur",82
+"327","Port Alfred",82
+"73","Cam Pha",83
+"174","Hazira",85
+"405","Sorel",87
+"30","Avonmouth",89
+"339","Portland(OR USA)",90
+"25","Archangel",91
+"322","Point Lisas",91
+"259","Marseilles",92
+"287","Napier",94
+"452","Visakhapatnam",94
+"101","Cuxhaven",96
+"340","Porto Nogaro",96
+"135","Fethiye",97
+"155","Georgetown(GUY)",97
+"162","Guayaquil",97
+"301","Ningde",97
+"124","Eemshaven",98
+"270","Moerdijk",98
+"137","Fort Lauderdale",99
+"84","Ceyhan",100
+"93","Conakry",100
+"206","Kandla",100
+"245","Lome",100
+"285","Nansha",100
+"470","Zhanjiang",100
+"133","Falmouth",101
+"143","Fuzhou",101
+"5","Adelaide",102
+"355","Rio de Janeiro",102
+"455","Vlaardingen",102
+"229","La Nouvelle",104
+"219","Ko Sichang",105
+"298","Ngqura",105
+"317","Pecem",105
+"391","Sepetiba",105
+"104","Dakar",106
+"458","Willemstad(ANT)",107
+"29","Aviles",109
+"53","BOSPHORUS STRAIT",109
+"66","Burnside",109
+"87","Chennai",110
+"39","Barletta",111
+"51","Bordeaux",111
+"71","Caldera(CRI)",111
+"139","Foynes",112
+"262","Mazatlan",112
+"198","Jiangyin",115
+"360","Rochefort",115
+"456","Volos",116
+"208","Karabiga",117
+"447","Vasto",117
+"77","Carino",118
+"68","Cadiz",119
+"7","Agadir",121
+"61","Bristol",121
+"131","Escombreras",121
+"457","Wilhelmshaven",121
+"147","Galveston",123
+"368","Safaga",123
+"373","Samalaju",123
+"114","Dikili",125
+"400","Sines",125
+"113","Dharamtar",126
+"201","Jubail",126
+"125","Eilat",127
+"15","Altamira",128
+"224","Krishnapatnam",128
+"302","Norfolk(USA)",128
+"444","Ust-Luga",128
+"378","San Ciprian",129
+"446","Varna",129
+"288","Naples",130
+"469","Zhangjiagang",130
+"202","Kakinada",131
+"464","Yantian",133
+"111","Delfzijl",134
+"417","Tallinn",134
+"86","Chalmette",136
+"24","Aratu",138
+"160","Guangdong Terminal",138
+"197","Jeddah",138
+"235","Lavera",139
+"428","Tekirdag",139
+"146","Gallipoli",140
+"187","Inebolu",141
+"236","Lazaro Cardenas",141
+"1","Aarhus",142
+"338","Port Sudan",142
+"396","Sfax",143
+"371","Saldanha Bay",144
+"164","Gwangyang",147
+"408","Stockholm",147
+"434","Tilbury",147
+"333","Port Klang",149
+"421","Tanjung Pelepas",150
+"449","Ventspils",151
+"74","Caofeidian",152
+"418","Tampa",152
+"316","Pascagoula",153
+"415","Taizhou",154
+"315","Pasajes",155
+"50","Bizerta",157
+"414","Taipei",157
+"222","Koromacno",158
+"89","Chioggia",159
+"218","Klaipeda",159
+"3","Abu Dhabi",160
+"250","Malmo",160
+"64","Buenaventura",161
+"416","Takoradi",161
+"11","Algeciras Bay",162
+"223","Kotka",162
+"365","Rosyth",162
+"343","Praia Mole",163
+"216","King Abdullah Port",164
+"145","Galle",165
+"385","Santo Domingo",165
+"62","Brunswick",166
+"204","Kalundborg",169
+"225","Kuantan",170
+"248","Malaga",171
+"293","Newark",171
+"308","Oristano",171
+"185","Immingham",175
+"319","Phu My",178
+"369","Sagunto",178
+"105","Dalian",179
+"54","Bosphorus Straits",181
+"109","Dar es Salaam",181
+"31","Bahia Blanca",184
+"241","Liepaja",184
+"255","Marin",184
+"91","Civitavecchia",185
+"159","Grimsby",187
+"8","Agioi Theodoroi",188
+"129","Eregli",188
+"166","Haiphong",189
+"167","Haldia",189
+"35","Baltimore",191
+"426","Tees",196
+"4","Adabiya",197
+"33","Bakar",198
+"465","Yarimca",198
+"258","Marsaxlokk",200
+"49","Bintulu",201
+"388","Savannah",201
+"438","Trieste",206
+"127","Eleusis",207
+"411","Szczecin",207
+"409","Suez",208
+"286","Nantong",211
+"299","Nikolayev",211
+"467","Yuzhnyy",212
+"203","Kaliningrad",216
+"321","Ploce",216
+"300","Ningbo",217
+"40","Barranquilla",224
+"36","Bandirma",225
+"377","San Antonio(CHL)",226
+"451","Vigo",227
+"283","Muuga",228
+"177","Hodeidah",230
+"392","Sete",242
+"121","Drepanon",245
+"323","Pointe a Pitre",247
+"134","Fangcheng",250
+"231","La Spezia",250
+"354","Riga",253
+"252","Manzanillo(PAN)",261
+"2","Abidjan",263
+"23","Aqaba",265
+"58","Bremerhaven",266
+"435","Tolu",266
+"9","Alexandria(EGY)",273
+"384","Santander",274
+"422","Taranto",274
+"395","Seville",279
+"210","Karasu",281
+"326","Ponta da Madeira",281
+"200","Jorf Lasfar",282
+"306","Odessa",286
+"148","Gangavaram",289
+"266","Milazzo",289
+"341","Porto Vesme",290
+"441","Tuticorin",290
+"16","Altinova",292
+"55","Bourgas",293
+"161","Guangzhou",293
+"57","Bremen",296
+"175","Hereke",308
+"314","Paranagua",309
+"52","Boryeong",310
+"429","Tema",310
+"72","Callao",311
+"34","Balboa",314
+"38","Bari",315
+"389","Savona",319
+"382","Santa Cruz de Tenerife",324
+"149","Garrucha",325
+"410","Suez Canal",328
+"141","Fujairah Anch.",329
+"170","Hansweert",332
+"359","Rizhao",337
+"199","Jinzhou",338
+"196","Jebel Ali",340
+"189","Isdemir",341
+"463","Yangjiang",347
+"331","Port Elizabeth",349
+"205","Kamsar",351
+"375","Samsun",355
+"268","Mina Saqr",367
+"44","Belfast",370
+"184","Icdas",374
+"83","Ceuta",380
+"289","Nea Karvali",382
+"297","Newport News",383
+"122","Dunkerque",387
+"363","Rostock",392
+"471","Zhenjiang",394
+"233","Lanshan",395
+"27","Augusta",404
+"97","Cote Ste. Catherine",405
+"80","Casablanca",408
+"192","Itaguai",414
+"275","Montoir",414
+"272","Monfalcone",418
+"120","Douala",420
+"367","Rouen",421
+"406","Split",424
+"356","Rio Grande(BRA)",428
+"85","Chalkis",430
+"119","Dordrecht",433
+"176","Ho Chi Minh City",442
+"281","Mumbai",442
+"150","Gdansk",450
+"269","Mobile",451
+"246","London",465
+"337","Port Said",466
+"26","Ashdod",468
+"163","Gulluk",470
+"165","Haifa",479
+"433","Tianjin",492
+"399","Sillamae",506
+"13","Aliaga",511
+"305","Novorossiysk",512
+"407","St. Petersburg",518
+"180","Houston",527
+"59","Brindisi",528
+"90","Chittagong",529
+"349","Rades",533
+"347","Qingdao",534
+"92","Colombo",537
+"99","Crotone",541
+"207","Kaohsiung",553
+"226","Kumport",553
+"69","Cagliari",557
+"41","Bayuquan",570
+"28","Aveiro",575
+"404","Sluiskil",577
+"430","Terneuzen",582
+"158","Gijon",610
+"138","Fos",640
+"239","Leixoes",644
+"423","Tarragona",649
+"14","Alicante",664
+"214","Kiel",679
+"431","Thessaloniki",681
+"153","Gemlik",688
+"312","Paradip",692
+"107","Damietta",712
+"450","Veracruz",716
+"402","Singapore Roads",728
+"244","Livorno",730
+"156","Ghent",733
+"81","Castellon",744
+"263","Melbourne",747
+"182","Huelva",763
+"251","Manila",781
+"157","Gibraltar",801
+"154","Genoa",882
+"132","Evyap",887
+"257","Marport",894
+"290","Nemrut Bay",917
+"183","Hull",918
+"292","New Orleans",1062
+"221","Koper",1098
+"140","Fujairah",1132
+"353","Richards Bay",1151
+"115","Diliskelesi",1167
+"230","La Pallice",1168
+"47","Bilbao",1174
+"70","Calaca",1176
+"472","Zhoushan",1213
+"397","Shanghai",1230
+"364","Rostov",1250
+"79","Cartagena(ESP)",1266
+"193","Izmir",1296
+"240","Lianyungang",1305
+"108","Dammam",1369
+"194","Izmit",1425
+"37","Barcelona",1437
+"380","San Lorenzo(ARG)",1451
+"313","Paramaribo",1537
+"169","Hamburg",1538
+"274","Montevideo",1582
+"191","Istanbul",1593
+"18","Amsterdam",1640
+"227","La Coruna",1645
+"112","Derince",1654
+"350","Ravenna",1655
+"370","Salalah",1778
+"448","Venice (Porto Marghera)",1825
+"265","Miami",2266
+"310","Pago Pago",2389
+"173","Haydarpasa",2461
+"442","Tuzla",2715
+"179","Hong Kong",2861
+"332","Port Everglades",2990
+"386","Santos",2993
+"234","Las Palmas",3047
+"67","Busan",3152
+"78","Cartagena(COL)",3285
+"461","Yalova",3684
+"10","Algeciras",3766
+"21","Antwerp",4196
+"264","Mersin",4260
+"123","Durban",4597
+"320","Piraeus",4940
+"445","Valencia",5400
+"366","Rotterdam",7046
+"20","Antalya",7094
+"190","Iskenderun",7742
+"425","Tasucu",10002
+"401","Singapore",17540
+"17","Ambarli",17699
+"468","Zeyport",25813
